@@ -1,4 +1,4 @@
-package stateDiagram;
+package statePattern;
 
 public interface AccountState {
     void deposit(double amount);
