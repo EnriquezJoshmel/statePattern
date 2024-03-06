@@ -1,4 +1,4 @@
-package stateDiagram;
+package statePattern;
 
 public class ActiveState implements AccountState{
     private final Account account;
